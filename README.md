@@ -1,4 +1,4 @@
-pip# Weather Scout 🌤️
+pip# Weather Now 🌤️
 
 A modern, responsive weather application built for outdoor enthusiasts who need quick access to current weather conditions for any city worldwide.
 
@@ -68,7 +68,7 @@ A modern, responsive weather application built for outdoor enthusiasts who need 
 ## Project Structure
 
 \`\`\`
-weather-scout/
+weather-now/
 ├── app/
 │   ├── api/
 │   │   └── weather/
