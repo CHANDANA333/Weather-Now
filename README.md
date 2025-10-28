@@ -143,6 +143,7 @@ The app uses WMO (World Meteorological Organization) weather codes:
    - Click "New Project"
    - Select your GitHub repository
    - Click "Deploy"
+   - THE DEPLOYMENT LINK (https://weather-now-gilt-one.vercel.app/)
 
 3. **Your app is live!** 🎉
 
